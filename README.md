@@ -13,6 +13,8 @@ New version of Seafile desktop client.
 - [seafile](https://github.com/haiwen/seafile)
 - [jansson](https://github.com/akheron/jansson)
 
+You can install all of these with the command : 
+``apt-get install qt-sdk cmake``
 ### INSTALL ###
 
 ```
